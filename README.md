@@ -1,14 +1,10 @@
 ##  Hi! my name's Brisa Rosatti
 
-- 🧬 I'm a Biotechnologist with a Master of Science degree
-- 💃 Specialization in Data Science and Machine Learning with conlusion in jun/2022
-- 💻 I’m currently learning some programming languages as Python, R and SQL
-- 📫 How to reach me: brisa.rosatti@gmail.com
 
 <div>
   <a href="https://github.com/brisarosatti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brisarosatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisarosatti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brisarosatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisarosatti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
