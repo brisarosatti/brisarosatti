@@ -1,6 +1,6 @@
 ##  Hi!🖖 I'm Brisa Rosatti
 
-A Biotechnology professional working on my skills in Data Science and programming.
+A Biotechnology professional working on my skills in Data Science and Programming.
 
 
 <div>
