@@ -1,5 +1,7 @@
 ##  Hi!🖖 I'm Brisa Rosatti
 
+A Biotechnology professional working on my skills in Data Science and programming.
+
 
 <div>
   <a href="https://github.com/brisarosatti">
