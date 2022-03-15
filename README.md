@@ -1,9 +1,8 @@
 ##  Hi!🖖 I'm Brisa Rosatti
 
-* 🧪 Biotechnologist and Scientist working on my skills in Data Science and Programming.
-* 🚀 I’m currently enrolled in a Data Science and Machine Learning Bootcamp.
-* 📚 I am also taking extra courses to improve my skills in Python, SQL database modeling, Statistical Analysis and Data Visualization.
-* 👩‍💻 I'm also studying Advanced Bioinformatics - Women in Bioinformatics and Data Science (WBDS) Organization.
+* 🧪 Biotechnologist and Scientist working on my skills in Data Science and Programming
+* 🚀 I’m currently enrolled in a Data Science and Machine Learning Bootcamp and I won a full scholarship to a graduate program in Analytics and AI
+* 📚 I'm taking extra courses to improve my skills in Python, SQL database modeling, Statistical Analysis and Data Visualization with PowerBI.
 
 <div>
   <a href="https://github.com/brisarosatti">
