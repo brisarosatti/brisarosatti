@@ -1,8 +1,9 @@
 ##  Olá!🖖 Bem vind@!
 
-* 🧪 Sou Cientista e no último ano estou em processo de migração de carreira.
-* 🚀 Atualmente estou finalizando Bootcamp de Data Science and Machine Learning e ganhei uma bolsa integral da Pós-graduação em Analytics e Inteligência Artificial.
-* 📚 Estou fazendo cursos extras em Python, SQL, Cloud computing (AWS) e visualização de dados com PowerBI
+* 🧪 Sou Cientista e no último ano estou em processo de migração de carreira para área de Dados.
+* 🚀 Atualmente estou finalizando Bootcamp de Data Science and Machine Learning. Projeto final em andamento, você pode ver [aqui](<https://github.com/brisarosatti/bncc-classifier-1>).
+* 📚 Ganhei uma bolsa de estudos integral da Pós-graduação FIA Busniness School em Analytics e Inteligência Artificial.
+* 👩‍💻 Estou fazendo cursos extras em Python, SQL, Cloud computing (AWS) e visualização de dados com PowerBI.
 
 <div>
   <a href="https://github.com/brisarosatti">
@@ -10,17 +11,18 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisarosatti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline-block"><br>
-  Python <img align="center" alt="Brisa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  R <img align="center" alt="Brisa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  Jupyter <img align="center" alt="Brisa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  Numpy <img align="center" alt="Brisa-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  Pandas <img align="center" alt="Brisa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
- MySQL <img align="center" alt="Brisa-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- PostegreSQL <img align="center" alt="Brisa-postegresql" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">   
- VScode <img align="center" alt="Brisa-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- Git <img align="center" alt="Brisa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- AWS <img align="center" alt="Brisa-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <div 
+   style="display: inline-block"><br>
+  <img align="center" alt="Brisa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Brisa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Brisa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Brisa-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Brisa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+ <img align="center" alt="Brisa-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Brisa-postegresql" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">   
+ <img align="center" alt="Brisa-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Brisa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="Brisa-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 
   </div>
   
