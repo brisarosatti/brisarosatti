@@ -1,8 +1,7 @@
 ##  Olá!🖖 Bem vind@!
 
-* 🧪 Sou Biotecnologista e no último ano estou em processo de migração de carreira para área de Dados.
+* 🧪 Sou Biotecnologista e pesquisadora, estudando Ciência de dados e Bioinformática
 * 🚀 Atualmente estou finalizando Bootcamp de Data Science and Machine Learning. Projeto final em andamento, você pode ver [aqui](<https://github.com/brisarosatti/bncc-classifier-1>).
-* 📚 Ganhei uma bolsa de estudos integral da Pós-graduação FIA Busniness School em Analytics e Inteligência Artificial.
 * 👩‍💻 Estou fazendo cursos extras em Python, SQL, Cloud computing (AWS) e visualização de dados com PowerBI.
 * 🤝🏼 Procuro colaborar em projetos que tenham Impacto Social positivo.
 
