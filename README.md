@@ -2,7 +2,7 @@
 
 * 🧪 Sou Biotecnologista e pesquisadora no SENAI CIMATEC
 * 🚀 Finalizei o Bootcamp de Data Science and Machine Learning da Tera. Projeto final você pode ver [aqui](<https://github.com/brisarosatti/bncc-classifier-1>).
-* 👩‍💻 Estou participando do ProgramaStart da Capgemini na Trilha Java com objetivo de migrar para área de Tecnologia
+* 👩‍💻 Estou participando do ProgramaStart da Capgemini na Trilha Cloud com objetivo de migrar para área de Tecnologia
 
 <div>
   <a href="https://github.com/brisarosatti">
