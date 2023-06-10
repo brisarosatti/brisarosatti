@@ -1,8 +1,8 @@
 ##  Olá!🖖 Bem vind@!
 
-* 🧪 Sou Biotecnologista e pesquisadora no SENAI CIMATEC
-* 🚀 Finalizei o Bootcamp de Data Science and Machine Learning da Tera. Projeto final você pode ver [aqui](<https://github.com/brisarosatti/bncc-classifier-1>).
-* 👩‍💻 Sempre aprimorando minhas habilidades em programação. Aqui você encontra alguns dos meus projetos na área.
+* 🧪 Sou Biotecnologista e pesquisadora no SENAI CIMATEC.
+* 🚀 Aqui você encontrará meus Projetos em Análise e Ciência de dados.
+* 👩‍💻 Sempre aprimorando minhas habilidades em programação.
 
 <div>
   <a href="https://github.com/brisarosatti">
