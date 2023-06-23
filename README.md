@@ -1,7 +1,7 @@
 ##  Olá!🖖 Bem vind@!
 
 * 🧪 Sou Biotecnologista e pesquisadora no SENAI CIMATEC.
-* 🚀 Aqui você encontrará meus Projetos em Análise e Ciência de dados.
+* 🚀 Aqui você encontrará meus Projetos em Análise de dados. 
 * 👩‍💻 Sempre aprimorando minhas habilidades em programação.
 
 <div>
