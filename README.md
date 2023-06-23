@@ -1,8 +1,8 @@
 ##  Olá!🖖 Bem vind@!
 
 * 🧪 Sou Biotecnologista e pesquisadora no SENAI CIMATEC.
-* 🚀 Aqui você encontrará meus Projetos em Análise e Ciência de dados.
-* 👩‍💻 Sempre aprimorando minhas habilidades em programação.
+* 🚀 Aqui você encontrará meus Projetos em Análise de dados.
+* 👩‍💻 Sempre aprimorando minhas habilidades em programação. Apaixonada por Front-end.
 
 <div>
   <a href="https://github.com/brisarosatti">
