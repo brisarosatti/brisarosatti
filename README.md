@@ -10,8 +10,7 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisarosatti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div 
-   style="display: inline-block"><br>
+  <div style="display: inline-block"><br>
   <img align="center" alt="Brisa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Brisa-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Brisa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
