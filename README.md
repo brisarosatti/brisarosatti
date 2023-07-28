@@ -1,6 +1,6 @@
 ##  Olá!🖖 Bem vind@!
 
-* 🧪 Sou Biotecnologista e pesquisadora no SENAI CIMATEC.
+* 🔎 Estudando Quality Assurance na Qa Coders.
 * 🚀 Aqui você encontrará meus Projetos em Análise de dados e Desenvolvimento Front-end.
 * 👩‍💻 Sempre aprimorando minhas habilidades em programação.
 
