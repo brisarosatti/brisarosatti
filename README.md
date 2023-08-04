@@ -1,6 +1,6 @@
 ##  Olá!🖖 Bem vind@!
 
-* 🔎 Estudando Quality Assurance na Qa Coders.
+* 🕵️‍♀️ Atuo como QA na Fisoft Tecnologias
 * 🚀 Aqui você encontrará meus Projetos em Análise de dados e Desenvolvimento Front-end.
 * 👩‍💻 Sempre aprimorando minhas habilidades em programação.
 
