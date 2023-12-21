@@ -3,14 +3,6 @@
 * 🕵️‍♀️ Sou Analista da Qualidade de Software especialista em Arquitetura de Sistemas.
 * 🚀 Aqui você encontrará meus Projetos em automação e Desenvolvimento front & back-end.
 * 👩‍💻 Sempre aprimorando minhas habilidades em programação.
-
-<div>
-  <a href="https://github.com/brisarosatti">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brisarosatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisarosatti&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-  </div>
   
 ##
   
