@@ -1,7 +1,7 @@
 ##  Olá!🖖 Bem vind@!
 
-* 🕵️‍♀️ Atuo como QA na Fisoft Tecnologias.
-* 🚀 Aqui você encontrará meus Projetos em Análise de dados e Desenvolvimento front e back-end
+* 🕵️‍♀️ Sou Analista da Qualidade de Software especialista em Arquitetura de Sistemas.
+* 🚀 Aqui você encontrará meus Projetos em automação e Desenvolvimento front & back-end.
 * 👩‍💻 Sempre aprimorando minhas habilidades em programação.
 
 <div>
