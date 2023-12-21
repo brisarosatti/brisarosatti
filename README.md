@@ -3,6 +3,15 @@
 * 🕵️‍♀️ Sou Analista da Qualidade de Software especialista em Arquitetura de Sistemas.
 * 🚀 Aqui você encontrará meus Projetos em automação e Desenvolvimento front & back-end.
 * 👩‍💻 Sempre aprimorando minhas habilidades em programação.
+
+* Principais Stacks:
+  - Postman API
+  - MongoDB
+  - SQL Server
+  - Cucumber
+  - Ruby
+  - JavaScript
+  - Python
   
 ##
   
