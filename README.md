@@ -9,25 +9,24 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brisarosatti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisarosatti&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  <div style="display: inline-block"><br>
-    <img align="center" alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Javascript-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ruby-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <img align="center" alt="MongoDB-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="SQL-Server-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-    <img align="center" alt="Cucumber-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
     
- 
- <img align="center" alt="Brisa-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="Brisa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+##
+  * Principais Stacks:
+    
+  <div style="display: inline-block"><br>
+  <img align="center" alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML<br><br>
+  <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS<br><br>
+  <img align="center" alt="Javascript-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">JavaScript<br><br>
+  <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python<br><br>
+  <img align="center" alt="Ruby-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">Ruby<br><br>
+  <img align="center" alt="MongoDB-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB<br><br>
+  <img align="center" alt="SQL-Server-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">Microsoft SQl Server<br><br>
+  <img align="center" alt="Cucumber-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">Cucumber<br><br>
+  <img align="center" alt="Brisa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">GIT<br><br>
 
   </div>
   
-##
-  
+  ##
 <div> 
  </a> 
   <a href = "mailto:brisa.rosatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
