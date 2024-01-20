@@ -1,7 +1,7 @@
 ##  Olá!🖖 Bem vind@!
 
 * 🕵️‍♀️ Sou Analista da Qualidade de Software 
-* 🚀 Aqui você encontrará meus Projetos em Ciência/Análise de dados  e Desenvolvimento front & back-end
+* 🚀 Aqui você encontrará meus Projetos em Ciência/Análise de dados, Desenvolvimento front & back-end e Automação de testes.
 * 👩‍💻 Sempre aprimorando minhas habilidades em programação.
 
 <div>
