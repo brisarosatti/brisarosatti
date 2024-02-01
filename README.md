@@ -1,8 +1,7 @@
 ##  Olá!🖖 Bem vind@!
 
-* 🕵️‍♀️ Sou Analista da Qualidade de Software 
-* 🚀 Aqui você encontrará meus Projetos em Ciência/Análise de dados, Desenvolvimento front & back-end e Automação de testes.
-* 👩‍💻 Sempre aprimorando minhas habilidades em programação.
+* 🕵️‍♀️ Aqui você encontrará meus Projetos em Ciência/Análise de dados
+* 👩‍💻 Estou sempre aprimorando minhas habilidades em programação Python e SQL
 
 <div>
   <a href="https://github.com/brisarosatti">
@@ -14,15 +13,11 @@
   * Principais Stacks:
     
   <div style="display: inline-block"><br>
-  <img align="center" alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML<br><br>
-  <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS<br><br>
-  <img align="center" alt="Javascript-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">JavaScript<br><br>
-  <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python<br><br>
-  <img align="center" alt="Ruby-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">Ruby<br><br>
-  <img align="center" alt="MongoDB-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">MongoDB<br><br>
-  <img align="center" alt="SQL-Server-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">Microsoft SQl Server<br><br>
-  <img align="center" alt="Cucumber-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">Cucumber<br><br>
-  <img align="center" alt="Brisa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">GIT<br><br>
+  <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
+  <img align="center" alt="MongoDB-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><br>
+  <img align="center" alt="SQL-Server-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><br>
+  <img align="center" alt="Cucumber-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/jupyter/jupyter-original-wordmark.svg"><br>
+  <img align="center" alt="Brisa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>
 
   </div>
   
