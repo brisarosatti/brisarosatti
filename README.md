@@ -9,14 +9,11 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisarosatti&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
-##
-  * Principais Stacks:
-    
   <div style="display: inline-block"><br>
-  <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
-  <img align="center" alt="MongoDB-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"><br>
-  <img align="center" alt="SQL-Server-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><br>
-  <img align="center" alt="Cucumber-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/jupyter/jupyter-original-wordmark.svg"><br>
+  <img align="center" alt="Python-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MongoDB-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="SQL-Server-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Brisa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>
 
   </div>
